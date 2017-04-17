@@ -102,3 +102,9 @@ footer {
   padding-left: 20px;
   color: green;
 }
+
+@media (max-width: 600px) {
+  body {
+    background-color: green;
+  }
+}
